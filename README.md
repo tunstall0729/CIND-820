@@ -7,4 +7,4 @@
 ### 5.Linear Regression
 ### 6.Random Forest
 ### 7.XGB
-### 8.Result comparision
+### 8.Result evaluation
