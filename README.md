@@ -1,5 +1,5 @@
 # CIND-820
 Project codes
-Loading data
-EDA
-Data cleaning and Preprocessing
+1.Loading data
+2.EDA
+3.Data cleaning and Preprocessing
