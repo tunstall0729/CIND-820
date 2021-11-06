@@ -8,3 +8,8 @@
 ### 6.Random Forest
 ### 7.XGB
 ### 8.Result evaluation
+## Content of the repository:
+### 1.Technical report in JupyterNotebook (IPYNB)
+### 2.Technical report in PDF format
+### 3.Final report draft version
+### 4.link to the working dataset
