@@ -1,5 +1,5 @@
 # CIND-820 Final Project
-## Project codes:
+## Tentative stages of the project :
 ### 1.Loading data
 ### 2.EDA
 ### 3.Data cleaning and Preprocessing
@@ -7,7 +7,7 @@
 ### 5.Linear Regression
 ### 6.Random Forest
 ### 7.XGB
-### 8.Result evaluation
+### 8.Result evaluation and comparison
 ## Content of the repository:
 ### 1.Technical report in JupyterNotebook (IPYNB)
 ### 2.Technical report in PDF format
