@@ -1,4 +1,4 @@
-# CIND-820
+# CIND-820 Final Project
 ## Project codes:
 ### 1.Loading data
 ### 2.EDA
