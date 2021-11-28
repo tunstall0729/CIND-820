@@ -1,5 +1,5 @@
 # CIND-820 Final Project
-## Tentative stages of the project :
+## Project outline :
 ### 1.Loading data
 ### 2.EDA
 ### 3.Data cleaning and Preprocessing
@@ -11,6 +11,6 @@
 ## Content of the repository:
 ### 1.Technical report in JupyterNotebook (IPYNB)
 ### 2.Technical report in PDF format
-### 3.Final report draft version
+### 3.Final report
 ### 4.link to the working dataset
 ### 5.Dataset profiles in html format
